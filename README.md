@@ -27,6 +27,6 @@ def draw(plus):
     t.fd(1)
     t.rt(3)
 
-for i in range(100):
+for i in range(120):
   draw(i)
   t.rt(1)
